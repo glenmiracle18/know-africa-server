@@ -1,0 +1,4 @@
+# AccessToken - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1N2RhMTQwOTY0MjNhYTljNzJjNGM1ZCIsImlhdCI6MTcwMjczMjMwOX0.PbpJBEF2F-Whq9V_rZQIb5SYq_wq2AXPyh5jlop-Cqg
+
+GET http://localhost:3000/get_blog/DontsayIdidnothingforyouCuzIdidxKa-fzCO5RisxwoAw2sdA
+Content-Type: application/json
